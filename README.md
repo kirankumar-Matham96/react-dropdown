@@ -1,6 +1,6 @@
 # React Dropdown
 
-    A simple dropdown component created using react. On hover the switch, the options will be displayed. On selecting any option will set the value to the switch and the options will be hidden.
+A simple dropdown component created using react. On hover the switch, the options will be displayed. On selecting any option will set the value to the switch and the options will be hidden.
 
 ## Getting Started with Create React App
 
