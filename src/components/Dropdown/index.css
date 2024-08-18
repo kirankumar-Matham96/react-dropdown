@@ -1,0 +1,40 @@
+.dropdown-container {
+  width: 24rem;
+  margin: auto;
+}
+
+.select-container {
+  border: 2px solid darkmagenta;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.3rem 1rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 0 5px -1px #1d1d1d;
+}
+
+img {
+  width: 1.5rem;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border: 1px solid rgba(139, 0, 139, 0.553);
+  padding: 1rem 1rem;
+  margin-bottom: 1px;
+  box-shadow: 0 10px 10px -5px #d1d1d1;
+  text-align: start;
+  font-size: 1.3rem;
+    }
